@@ -1,50 +1,46 @@
-# Pemmob_1
-
-# 🚀 UTS PEMMOB1: Aplikasi Kuis Pilihan Ganda
+# 🚀 UTS PEMROGRAMAN MOBILE 1: Aplikasi Kuis Pilihan Ganda
 
 ---
 
-## A. Identitas Mahasiswa
-* **Nama:** [Dini Arya Putri]
-* **NIM:** [231401025]
-* **Lab:** [Pemrograman Mobile]
+### Aturan Pengumpulan 1.a, 1.b, 1.c (Identitas, Nama, Deskripsi)
+
+## A. Identitas Pengembang
+* **Nama:** Dini Arya Putri
+* **NIM:** 231401025
+* **Lab:** Lab Pemrograman Mobile 1
 
 ---
 
-## B. Deskripsi Aplikasi
+## B. Nama dan Deskripsi Aplikasi
 
-### 1. Nama Aplikasi
-**Flutter Quiz Master** (atau nama yang Anda tentukan).
+### Nama Aplikasi
+**Flutter Quiz Master**
 
-### 2. Deskripsi Singkat
-Aplikasi kuis pilihan ganda berbasis Flutter yang dirancang untuk menguji pengetahuan pengguna. Aplikasi ini menerapkan State Management (Provider), navigasi antar-halaman, serta mendukung Dual-Theme (Light & Dark Mode) dan desain responsif.
-
-### 3. Kriteria Wajib & Bonus Poin yang Terpenuhi
-* **Kriteria Wajib:** Seluruh 10 kriteria wajib telah terpenuhi (Stateless/Stateful, State Management, Reusable Widgets, Dynamic Sizing, dll.).
-* **Bonus Poin:** Dual-Theme dan Adaptive/Responsive Design telah diimplementasikan menggunakan `ThemeMode.system` dan `LayoutBuilder`.
+### Deskripsi Aplikasi
+Aplikasi kuis pilihan ganda interaktif berbasis Flutter yang dikembangkan untuk memenuhi kriteria Ujian Tengah Semester (UTS) mata kuliah Pemrograman Mobile. Aplikasi ini menerapkan *State Management* dengan Provider, mendukung **Dual-Theme** (Mode Terang/Gelap) yang dapat diubah secara manual, serta menggunakan *Custom UI* dan desain yang responsif/adaptif. Semua data pertanyaan dimuat secara *hardcode* tanpa menggunakan *database* eksternal.
 
 ---
 
-## C. Dokumentasi & Aset
+### Aturan Pengumpulan 1.d (Credit Sumber Aset)
 
-### 1. Screenshot/Video Aplikasi
-[Tambahkan URL gambar hasil akhir atau video singkat aplikasi Anda di sini]
-* ****
-* ****
-* ****
+## C. Credit Sumber-Sumber Aset yang Digunakan
 
-### 2. Credit Sumber Aset
-* **Font:** Poppins Family - Diunduh dari Google Fonts.
-* **Ikon:** Material Icons - Disediakan oleh Flutter SDK.
-* **Ilustrasi (Opsional, jika ditambahkan):** [Nama aset, misal: 'Winning Trophy'] - Diperoleh dari [Nama Sumber, misal: unDraw.co / Freepik].
+| Aset | Sumber | Keterangan |
+| :--- | :--- | :--- |
+| **Font Kustom** | Google Fonts | Keluarga Font **Poppins** (Regular dan Bold). |
+| **Ikon/Ilustrasi Kuis** | **Flaticon** | Ilustrasi untuk Halaman Hasil (Kemenangan dan Kegagalan) dan Logo Header Kuis. |
+| **Ikon** | Material Icons | Ikon standar bawaan Flutter SDK (misal: *Toggle* Tema, *Checkmark*, dll.). |
 
-### 3. Link Mockup/Prototype (Kriteria Pengumpulan)
-* **Link Figma/Proses Desain:** [Masukkan URL Figma atau platform mockup Anda di sini]
-    *(Anda bisa membuat sketsa sederhana di Figma yang mencakup 3 halaman utama: Welcome, Quiz, Result.)*
 ---
 
-### D. Panduan Menjalankan Proyek
-1. Clone repository ini.
-2. Pastikan Anda memiliki Flutter SDK versi 3.x ke atas.
-3. Jalankan `flutter pub get` di terminal.
-4. Jalankan `flutter run`.
+### Aturan Pengumpulan 1.e, 1.f (Screenshot & Mockup)
+
+## D. Dokumentasi Aplikasi
+
+### 1. Screenshot/Video Aplikasi (e)
+[Tambahkan URL Gambar Screenshot Halaman Selamat Datang (WelcomePage)]
+[Tambahkan URL Gambar Screenshot Halaman Kuis (QuizPage)]
+[Tambahkan URL Gambar Screenshot Halaman Hasil Kuis (ResultPage)]
+
+### 2. Link Mockup/Prototype Aplikasi (f)
+[Masukkan URL Link Figma/Mockup/Prototype Anda di sini]
